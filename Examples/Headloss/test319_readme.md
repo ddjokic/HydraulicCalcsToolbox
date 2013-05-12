@@ -1,0 +1,2 @@
+Example of calculation Headloss, Reynolds number and Velocity in 320 individual (not in complex system) pipelines. Executed on MacBook (late 2012, Retina) for less than 2 minutes, including rawing of 320*3=960 graphs.  
+"Proof of concept".
